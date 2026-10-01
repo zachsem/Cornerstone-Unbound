@@ -1,0 +1,43 @@
+name: Feature / Mod Request
+description: Suggest a mod, configuration change, compatibility improvement, or quality-of-life change
+title: "[Request]: "
+labels:
+  - "type: enhancement"
+  - "status: needs triage"
+body:
+  - type: textarea
+    id: request
+    attributes:
+      label: What are you requesting?
+      description: Describe the mod, configuration change, compatibility improvement, quality-of-life change, or other request.
+    validations:
+      required: true
+  - type: textarea
+    id: fit
+    attributes:
+      label: Why would it fit Cornerstone Unbound?
+      description: Explain what it would add or improve and why it fits the pack's broad, classic-modded focus.
+    validations:
+      required: true
+  - type: textarea
+    id: overlap
+    attributes:
+      label: Existing overlap or conflicts
+      description: If you know of an included mod or feature that already does something similar, mention it here.
+  - type: textarea
+    id: link
+    attributes:
+      label: Relevant version or link
+      description: If this request concerns a specific mod, include its Minecraft version and an official project link when available.
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
+      description: Add any other details that would help evaluate the request.
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Before submitting
+      options:
+        - label: I checked existing issues for the same request.
+          required: true
