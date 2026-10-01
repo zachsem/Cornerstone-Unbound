@@ -10,9 +10,11 @@ The goal is to preserve the character of classic modded Minecraft while smoothin
 
 CurseForge is the primary download source for Cornerstone Unbound.
 
+**[Download Cornerstone Unbound on CurseForge](https://www.curseforge.com/minecraft/modpacks/cornerstone-unbound)**
+
 ## Issues and Requests
 
-Use the GitHub **Issues** tab for actionable reports and requests.
+Use [GitHub Issues](https://github.com/zachsem/Cornerstone-Unbound/issues) for actionable reports and requests.
 
 - **Bug Report** — crashes, broken behavior, compatibility problems, or reproducible pack issues.
 - **Feature / Mod Request** — mod suggestions, configuration changes, quality-of-life ideas, or other pack requests.
